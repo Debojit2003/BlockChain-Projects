@@ -1,2 +1,2 @@
 # BlockChain-Projects
-1. Project 1 : Storage Factory -> Simplestorage.sol
+1. Project 1 : Storage Factory -> SimpleStorage.sol
